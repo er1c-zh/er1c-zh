@@ -2,6 +2,8 @@ I'm eric, a full-stack developer.
 
 Looking for part-time/full-time remote job! (Golang/Java/PHP/Vue/React/Swift/etc)
 
+Learn Ruby on Rails & React & Tailwind now!
+
 <div style="display: flex">
   <img style="width: 50%; height: auto" src="https://streak-stats.demolab.com?user=er1c-zh&date_format=%5BY.%5Dn.j"/>
   <img style="width: 50%; height: auto" src="https://github-readme-stats.vercel.app/api?username=er1c-zh&show_icons=true"/>
